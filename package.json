@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "express": "^4.19.2",
     "jest": "^29.7.0",
     "sweet.js": "^3.0.15",
     "vim.js": "^0.1.2",
